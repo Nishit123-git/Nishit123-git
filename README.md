@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/13_nishitk" target="blank"><img src="https://img.shields.io/twitter/follow/13_nishitk?logo=twitter&style=for-the-badge" alt="13_nishitk" /></a> </p>
 
-- 🔭 I’m currently working on **Car Dealership website**
+- 🔭 I’m currently working on **Real Time Face Detection and Emotion and Gender Classification**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 

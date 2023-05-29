@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishitkashyap123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jm8_y4VqUp4_zU0Y57NN8BMZ5aJ3Fr1e/view?usp=sharing](https://drive.google.com/file/d/1jm8_y4VqUp4_zU0Y57NN8BMZ5aJ3Fr1e/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EwLljKQ0hAO9jbAuwmaf0GsxeBuP1L4Q/view?usp=sharing](https://drive.google.com/file/d/1EwLljKQ0hAO9jbAuwmaf0GsxeBuP1L4Q/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm a pretty likeable and fun person to be around**
 

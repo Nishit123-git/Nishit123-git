@@ -5,9 +5,14 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit123-git&label=Profile%20views&color=0e75b6&style=flat" alt="nishit123-git" /> </p>
-
-<p align="left"> <a href="https://twitter.com/13_nishitk" target="blank"><img src="https://img.shields.io/twitter/follow/13_nishitk?logo=twitter&style=for-the-badge" alt="13_nishitk" /></a> </p>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/nishitkashyap">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/13_nishitK">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 
 - 🔭 I’m currently working on **Real Time Face Detection and Emotion and Gender Classification**
 

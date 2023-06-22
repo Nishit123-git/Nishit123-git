@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishit Kashyap</h1>
 <h3 align="center">An Independent and self- motivated Computer Science graduate with proven and tested problem solving skills. Always willing and eager to learn new stuff.</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit123-git&label=Profile%20views&color=0e75b6&style=flat" alt="nishit123-git" /> </p>
 
 <p align="left"> <a href="https://twitter.com/13_nishitk" target="blank"><img src="https://img.shields.io/twitter/follow/13_nishitk?logo=twitter&style=for-the-badge" alt="13_nishitk" /></a> </p>

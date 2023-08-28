@@ -18,13 +18,13 @@
 </div>
 
 
-- 🔭 I’m currently working on **Real Time Face Detection and Emotion and Gender Classification**
+- 🔭 I’m currently working on **Responsive Website for Hospital Management**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Android Development**
 
 -- 📫 How to reach me **nishitkashyap123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EwLljKQ0hAO9jbAuwmaf0GsxeBuP1L4Q/view?usp=sharing](https://drive.google.com/file/d/1EwLljKQ0hAO9jbAuwmaf0GsxeBuP1L4Q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **I think I'm a pretty likeable and fun person to be around**
 

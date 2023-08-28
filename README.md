@@ -24,7 +24,7 @@
 
 -- 📫 How to reach me **nishitkashyap123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [[https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1X4eA4hn_IIsQ2_S6SK27XYW5kH1jewCN/view))
 
 - ⚡ Fun fact **I think I'm a pretty likeable and fun person to be around**
 

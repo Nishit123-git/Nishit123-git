@@ -19,9 +19,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **Responsive Website for Hospital Management**
+- 🔭 I’m currently working on **Malware Analysis Techniques using Machine Learning**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Frameworks of Python like Django and Flask**
 
 -- 📫 How to reach me **nishitkashyap123@gmail.com**
 

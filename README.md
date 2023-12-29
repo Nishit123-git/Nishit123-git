@@ -25,7 +25,7 @@
 
 -- 📫 How to reach me **nishitkashyap123@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1x9LnEWjSoDzXqJdzj1NlkUeTbyAPPdhg/view))
+- 📄 Know about my experiences [(https://drive.google.com/file/d/18046_BDafsga0oZkoF9QwxTsxn_D8Wx8/view?usp=drive_link))
 
 - :grin: About Me [(https://nishitkashyap.pythonanywhere.com/)]
 

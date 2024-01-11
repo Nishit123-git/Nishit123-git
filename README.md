@@ -9,7 +9,7 @@
 
    <img src="https://komarev.com/ghpvc/?username=nishit123-git&style=flat-square&color=blue" alt=""/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
 
 
 <h1 align="center">Hi 👋, I'm Nishit Kashyap</h1>
